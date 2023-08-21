@@ -47,6 +47,9 @@ EMBEDDING_MODEL_NAME = "hkunlp/instructor-large"
 MODEL_ID = "TheBloke/Llama-2-7B-Chat-GGML"
 MODEL_BASENAME = "llama-2-7b-chat.ggmlv3.q4_0.bin"
 
+# MODEL_ID = "TheBloke/Dolphin-Llama2-7B-GPTQ"
+# MODEL_BASENAME = "gptq_model-4bit-128g.safetensors"
+
 # for HF models
 # MODEL_ID = "TheBloke/vicuna-7B-1.1-HF"
 # MODEL_BASENAME = None
